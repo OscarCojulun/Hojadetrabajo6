@@ -10,7 +10,7 @@ Esta API permite crear, listar, actualizar y eliminar usuarios. Cada usuario tie
 La API valida que no existan usuarios con el mismo DPI
 
 Instrucciones para ejecutar la API localmente: 
-1. Clonar el repositorio
+1. Clonar el repositorio (Descargar el archivo RAR Hoja6 y descomprimir)
 2. Instalar dependencias:
 npm install
 3. Ejecutar el servidor:
